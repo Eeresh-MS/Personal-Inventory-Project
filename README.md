@@ -1,1 +1,1 @@
-# my-first-exercise-repository
+# coding-exercise-repository
